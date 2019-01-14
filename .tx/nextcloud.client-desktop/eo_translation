@@ -198,6 +198,7 @@ X-GNOME-Autostart-Delay=3
 
 
 # Translations
-Icon[ko]=@APPLICATION_ICON_NAME@
-Comment[ko]=@APPLICATION_NAME@ 데스크톱 동기화 클라이언트
-GenericName[ko]=폴더 동기화
+Icon[eo]=@APPLICATION_ICON_NAME@
+Name[eo]=@APPLICATION_NAME@ sinkroniga kliento
+Comment[eo]=@APPLICATION_NAME@ sinkroniga kliento
+GenericName[eo]=Dosieruja sinkronigo
